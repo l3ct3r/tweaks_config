@@ -26,3 +26,18 @@
 $ cd tweaks_config 
 $ cd Cursors 
 $ sudo mv (FileName) || (DirName) /usr/share/icons/
+
+------- Icons -------
+$ cd tweaks_config 
+$ cd Icons 
+$ sudo mv (FileName) || (DirName) /usr/share/icons/
+
+####### Fonts #######
+$ cd tweaks_config 
+$ cd Fonts
+$ sudo mv (FileName) || (DirName) /usr/share/fonts/
+
++++++++ Themes +++++++
+$ cd tweaks_config 
+$ cd Themes
+$ sudo mv (FileName) || (DirName) /usr/share/themes
