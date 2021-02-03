@@ -5,10 +5,10 @@
 
 | 	Configuration Contents       | 
 | ------------- |
-| [Cursors]()		|
-| [Fonts]()		|
-| [Icons]()		|
-| [Themes]()		|
+| [Cursors](https://cutt.ly/7kfPdHc)		|
+| [Fonts](https://cutt.ly/jkfPgOX)		|
+| [Icons](https://cutt.ly/ykfPjWP)		|
+| [Themes](https://kutt.it/Mv9WBW)		|
 
 ## Required Tools: 
 * Git 
