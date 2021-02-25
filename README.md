@@ -22,6 +22,9 @@
 	
 ### Setup 
 ```
+***** Clone this Repository *****
+$ git clone https://github.com/3ncrypt3db0t/tweaks_config
+
 ******* Cursors *******
 $ cd tweaks_config 
 $ cd Cursors 
