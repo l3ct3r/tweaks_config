@@ -11,14 +11,14 @@
 | [Themes](https://kutt.it/Mv9WBW)		|
 
 ### Required Tools: 
-* Git 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
 
 ### General info
-* This is configuration files of i3-wm and dwm
+- This is tweak file for ![XFCE](https://img.shields.io/badge/XFCE-3776AB?style=for-the-badge&logo=xfce&logoColor=white)
 	
 ### Setup 
 ```
