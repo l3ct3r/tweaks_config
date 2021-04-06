@@ -10,17 +10,17 @@
 | [Icons](https://cutt.ly/ykfPjWP)		|
 | [Themes](https://kutt.it/Mv9WBW)		|
 
-## Required Tools: 
+### Required Tools: 
 * Git 
 
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
 
-## General info
+### General info
 * This is configuration files of i3-wm and dwm
 	
-## Setup 
+### Setup 
 ```
 ******* Cursors *******
 $ cd tweaks_config 
