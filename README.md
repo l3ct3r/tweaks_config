@@ -44,3 +44,4 @@ $ sudo mv (FileName) || (DirName) /usr/share/fonts/
 $ cd tweaks_config 
 $ cd Themes
 $ sudo mv (FileName) || (DirName) /usr/share/themes
+```
