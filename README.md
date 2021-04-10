@@ -1,5 +1,5 @@
 # Tweaks Files
-* Tweaking configuration for Linux based OS'es  
+* Tweaking configuration for Linux based OS'es   
 
 ## Contents 
 
